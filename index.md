@@ -1,29 +1,19 @@
-## Welcome to GitHub Pages
+## Descrição
 
-You can use the [editor on GitHub](https://github.com/D45putspin/DCS_CD_a18492_a14087/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ plataforma de entrega de comida, que permite pedir comida dos seus 
+ restaurantes locais preferidos com apenas alguns cliques.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Tecnologias utilizadas
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+HTML
+JavaScript
+CSS
+Bootstrap
+NodeJs
+SQLite
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
